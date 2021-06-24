@@ -1,0 +1,8 @@
+﻿  Here.cpp
+C:\Users\Рамазан\source\repos\PsAh\PsAh\Here.cpp(15,17): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\Users\Рамазан\source\repos\PsAh\PsAh\Here.cpp(16,11): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\Users\Рамазан\source\repos\PsAh\PsAh\Here.cpp(23,17): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\Users\Рамазан\source\repos\PsAh\PsAh\Here.cpp(24,12): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\Users\Рамазан\source\repos\PsAh\PsAh\Here.cpp(29,18): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\Users\Рамазан\source\repos\PsAh\PsAh\Here.cpp(30,12): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+  PsAh.vcxproj -> C:\Users\Рамазан\source\repos\PsAh\Debug\PsAh.exe
